@@ -1,0 +1,12 @@
+[submodule "CypressLibCore"]
+	path = CypressLibCore
+	url = https://github.com/Cfauto28/Cypress-Lib-Core
+[submodule "Cypress-deAWT"]
+	path = Cypress-deAWT
+	url = https://github.com/Cfauto28/Cypress-deAWT
+[submodule "ExtModMenu"]
+	path = ExtModMenu
+	url = https://github.com/Cfauto28/ExtModMenu
+[submodule "OSL"]
+	path = OSL
+	url = https://github.com/Cfauto28/ornithe-standard-libraries
