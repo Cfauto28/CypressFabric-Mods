@@ -10,3 +10,6 @@
 [submodule "OSL"]
 	path = OSL
 	url = https://github.com/Cfauto28/ornithe-standard-libraries
+[submodule "CypressLWJGL3"]
+	path = CypressLWJGL3
+	url = https://github.com/Cfauto28/CypressLWJGL3.git
