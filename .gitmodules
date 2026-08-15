@@ -16,3 +16,6 @@
 [submodule "CypressBlockItemAPI"]
 	path = CypressBlockItemAPI
 	url = https://github.com/Cfauto28/CypressBlockItemAPI
+[submodule "CypressOptiFabric"]
+	path = CypressOptiFabric
+	url = https://github.com/Cfauto28/CypressOptiFabric
