@@ -22,3 +22,6 @@
 [submodule "MoreIDs"]
 	path = MoreIDs
 	url = https://github.com/Cfauto28/MoreIDs.git
+[submodule "CypressExtended"]
+	path = CypressExtended
+	url = https://github.com/Cfauto28/CypressExtended
