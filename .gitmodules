@@ -25,3 +25,6 @@
 [submodule "CypressExtended"]
 	path = CypressExtended
 	url = https://github.com/Cfauto28/CypressExtended
+[submodule "CypressSkinFix"]
+	path = CypressSkinFix
+	url = https://github.com/FMG793/CypressSkinFix.git
