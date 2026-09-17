@@ -24,7 +24,7 @@
 	url = https://github.com/Cfauto28/MoreIDs.git
 [submodule "CypressExtended"]
 	path = CypressExtended
-	url = https://github.com/Cfauto28/CypressExtended
+	url = https://github.com/Cfauto28/CypressExtended.git
 [submodule "CypressSkinFix"]
 	path = CypressSkinFix
 	url = https://github.com/FMG793/CypressSkinFix.git
